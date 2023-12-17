@@ -136,6 +136,9 @@ function NavBar() {
                   spacing={3}
                   rounded="sm"
                   shadow="sm"
+                    _dark={{
+                    bg: "gray.800",
+                  }}
                 >
                   <CloseButton
                     aria-label="Close menu"
