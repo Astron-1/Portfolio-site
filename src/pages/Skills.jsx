@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Box, Text, VStack, Tabs, TabList, TabPanels, Tab, TabPanel, useColorModeValue, Flex, Link, Icon, useColorMode } from "@chakra-ui/react";
+import { Box, Text, VStack, Tabs, TabList, TabPanels, Tab, TabPanel, useColorModeValue, Flex, Link, Icon } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import { FaJsSquare, FaPython, FaJava, FaAws, FaGitAlt, FaReact, FaNodeJs, FaSalesforce, FaDatabase } from "react-icons/fa";
 import { SiGooglecloud, SiMicrosoftazure  } from "react-icons/si";
