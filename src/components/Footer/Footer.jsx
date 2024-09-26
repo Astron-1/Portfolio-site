@@ -1,4 +1,4 @@
-import React from "react";
+
 import { chakra, Flex, Icon } from "@chakra-ui/react";
 
 export default function App(){

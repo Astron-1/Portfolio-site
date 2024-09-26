@@ -1,0 +1,48 @@
+[
+     {
+       "name": "Wardrobe Wizard",
+       "description": "An ML-based wardrobe management app for Android that helps users organize and optimize their clothing choices.",
+       "technologies": ["Java", "Android", "Azure", "Python", "cv2", "rembg", "ExpressJS", "Firebase"],
+       "features": [
+         "Image processing for clothing recognition",
+         "Background removal for clean clothing images",
+         "Cloud-based storage and processing",
+         "User-friendly Android interface",
+         "Personalized clothing recommendations"
+       ],
+       "image": "https://via.placeholder.com/400x300?text=Wardrobe+Wizard",
+       "demoLink": "https://wardrobe-wizard-demo.com",
+       "githubLink": "https://github.com/yourusername/wardrobe-wizard",
+       "upcoming": false
+     },
+     {
+       "name": "Panacea",
+       "description": "A comprehensive Hospital Management System designed to streamline patient and staff management in healthcare facilities.",
+       "technologies": ["React", "Node.js", "Express", "MySQL"],
+       "features": [
+         "Patient record management",
+         "Staff scheduling and management",
+         "Inventory tracking for medical supplies",
+         "Appointment scheduling system",
+         "Billing and insurance processing"
+       ],
+       "image": "https://via.placeholder.com/400x300?text=Panacea",
+       "demoLink": "https://panacea-demo.com",
+       "githubLink": "https://github.com/yourusername/panacea",
+       "upcoming": false
+     },
+     {
+       "name": "DevOps Pipeline Automator",
+       "description": "An automated CI/CD pipeline project for beginners to learn essential DevOps practices and tools.",
+       "technologies": ["Jenkins", "Docker", "GitHub Actions", "AWS", "Terraform"],
+       "features": [
+         "Automated build and test processes",
+         "Containerization of applications",
+         "Infrastructure as Code (IaC) implementation",
+         "Continuous deployment to cloud platforms",
+         "Monitoring and logging integration"
+       ],
+       "image": "https://via.placeholder.com/400x300?text=DevOps+Automator",
+       "upcoming": true
+     }
+   ]

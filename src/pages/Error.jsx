@@ -1,4 +1,4 @@
-import { Flex, Box, Grid, GridItem } from "@chakra-ui/react";
+import { Flex, Grid, GridItem } from "@chakra-ui/react";
 import { Text } from "@chakra-ui/react";
 import Lottie from "lottie-react";
 import { Tooltip } from "@chakra-ui/react";

@@ -92,13 +92,16 @@ function NavBar() {
                 <Button variant="ghost" onClick={() => navigate("/contact")}>
                   Contact
                 </Button>
+                <Button variant="ghost" onClick={() => navigate("/skills")}>
+                  Skills
+                </Button>
               </HStack>
               <Button colorScheme="brand" size="sm" background={"teal"} onClick={handleDownload}
                _dark={{
                 bg: "teal.200",
               }}
               >
-                Don't Click
+                Don&apos;t Click
               </Button>
               <Box
                 display={{

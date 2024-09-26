@@ -1,0 +1,31 @@
+[
+     {
+       "company": "Rootit",
+       "role": "Fullstack Developer Intern",
+       "duration": "Dec 2023 – May 2024",
+       "description": "Led the creation of a Canteen Management software.",
+       "achievements": [
+         "Developed a desktop application with ElectronJS.",
+         "Designed and implemented a PostgreSQL database, while also creating APIs using ExpressJS."
+       ]
+     },
+     {
+       "company": "OraqoSoft",
+       "role": "Salesforce Intern",
+       "duration": "Aug 2023 – Jan 2024",
+       "description": "Developed and deployed Lightning Web Components (LWC) for clients.",
+       "achievements": [
+         "Actively engaged in various Salesforce projects."
+       ]
+     },
+     {
+       "company": "CHRIST Consulting",
+       "role": "Tech Intern - Tech Lead",
+       "duration": "Jul 2023 – May 2024",
+       "description": "Used HTML, CSS, JavaScript, and PHP for web development.",
+       "achievements": [
+         "Actively contributed to web projects, gaining hands-on experience in server deployment.",
+         "Assisted the team in troubleshooting technical issues."
+       ]
+     }
+]
