@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { MemoryRouter as Router } from 'react-router-dom';
 import App from './App.jsx'
-import { ChakraProvider, extendTheme } from "@chakra-ui/react";
+import { ChakraProvider, ColorModeScript, extendTheme } from "@chakra-ui/react";
 
 const colors = {
   brand: {
@@ -24,12 +24,14 @@ const config = {
 };
 
 const theme = extendTheme({ colors, config });
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ChakraProvider theme={theme}>
-    <Router>
-      <App />
-    </Router>
+      <ColorModeScript initialColorMode={theme.config.initialColorMode} />
+      <Router>
+        <App />
+      </Router>
     </ChakraProvider>
   </React.StrictMode>,
 )

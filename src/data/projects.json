@@ -2,7 +2,7 @@
      {
        "name": "Wardrobe Wizard",
        "description": "An ML-based wardrobe management app for Android that helps users organize and optimize their clothing choices.",
-       "technologies": ["Java", "Android", "Azure", "Python", "cv2", "rembg", "ExpressJS", "Firebase"],
+       "technologies": ["Java", "Android", "Azure", "Python", "cv2", "ExpressJS", "Firebase"],
        "features": [
          "Image processing for clothing recognition",
          "Background removal for clean clothing images",
@@ -10,7 +10,7 @@
          "User-friendly Android interface",
          "Personalized clothing recommendations"
        ],
-       "image": "https://via.placeholder.com/400x300?text=Wardrobe+Wizard",
+       "image": "",
        "demoLink": "https://wardrobe-wizard-demo.com",
        "githubLink": "https://github.com/yourusername/wardrobe-wizard",
        "upcoming": false
@@ -26,7 +26,7 @@
          "Appointment scheduling system",
          "Billing and insurance processing"
        ],
-       "image": "https://via.placeholder.com/400x300?text=Panacea",
+       "image": "",
        "demoLink": "https://panacea-demo.com",
        "githubLink": "https://github.com/yourusername/panacea",
        "upcoming": false
@@ -42,7 +42,7 @@
          "Continuous deployment to cloud platforms",
          "Monitoring and logging integration"
        ],
-       "image": "https://via.placeholder.com/400x300?text=DevOps+Automator",
+       "image": "",
        "upcoming": true
      }
    ]

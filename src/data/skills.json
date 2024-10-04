@@ -1,98 +1,98 @@
 {
-     "languagesAndSkills": [
-       {
-         "name": "JavaScript",
-         "icon": "FaJsSquare",
-         "color": "#F7DF1E"
-       },
-       {
-         "name": "Python",
-         "icon": "FaPython",
-         "color": "#3776AB"
-       },
-       {
-         "name": "Java",
-         "icon": "FaJava",
-         "color": "#007396"
-       },
-       {
-         "name": "TypeScript",
-         "icon": "FaJsSquare",
-         "color": "#3178C6"
-       },
-       {
-         "name": "Git",
-         "icon": "FaGitAlt",
-         "color": "#F05032"
-       },
-       {
-         "name": "React.js",
-         "icon": "FaReact",
-         "color": "#61DAFB"
-       },
-       {
-         "name": "Node.js",
-         "icon": "FaNodeJs",
-         "color": "#339933"
-       },
-       {
-         "name": "AWS",
-         "icon": "FaAws",
-         "color": "#FF9900"
-       },
-       {
-         "name": "Azure",
-         "icon": "SiMicrosoftazure",
-         "color": "#0078D7"
-       },
-       {
-         "name": "Salesforce Apex",
-         "icon": "FaSalesforce",
-         "color": "#00A1E0"
-       },
-       {
-         "name": "MySQL",
-         "icon": "FaDatabase",
-         "color": "#4479A1"
-       },
-       {
-         "name": "PostgreSQL",
-         "icon": "FaDatabase",
-         "color": "#336791"
-       }
-     ],
-     "certifications": [
-       {
-         "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
-         "icon": "FaAws",
-         "color": "#FF9900",
-         "url": "https://www.credly.com/go/qKeAM6Lo"
-       },
-       {
-         "name": "Microsoft Certified: Azure Fundamentals",
-         "icon": "SiMicrosoftazure",
-         "color": "#0078D7",
-         "url": "https://www.credly.com/badges/acb8d778-502f-4e50-9e0c-3a202ff8d591/"
-       }
-     ],
-     "skillBadges": [
-       {
-         "name": "Salesforce Trailhead",
-         "icon": "FaSalesforce",
-         "color": "#1798C1",
-         "url": "https://www.salesforce.com/trailblazer/arpitshukla"
-       },
-       {
-         "name": "Microsoft Learn",
-         "icon": "SiMicrosoftazure",
-         "color": "#005A9E",
-         "url": "https://learn.microsoft.com/en-us/users/arpitshukla/"
-       },
-       {
-         "name": "Google Cloud",
-         "icon": "SiGooglecloud",
-         "color": "#1A73E8",
-         "url": "https://www.cloudskillsboost.google/public_profiles/8610b7c7-ccb6-4fb1-9008-f82a3f446390"
-       }
-     ]
-   }
+  "languagesAndSkills": [
+    {
+      "name": "JavaScript",
+      "icon": "FaJsSquare",
+      "color": "#F7DF1E"
+    },
+    {
+      "name": "Python",
+      "icon": "FaPython",
+      "color": "#3776AB"
+    },
+    {
+      "name": "Java",
+      "icon": "FaJava",
+      "color": "#007396"
+    },
+    {
+      "name": "React",
+      "icon": "FaReact",
+      "color": "#61DAFB"
+    },
+    {
+      "name": "Node.js",
+      "icon": "FaNodeJs",
+      "color": "#339933"
+    },
+    {
+      "name": "Git",
+      "icon": "FaGitAlt",
+      "color": "#F05032"
+    },
+    {
+      "name": "AWS",
+      "icon": "FaAws",
+      "color": "#FF9900"
+    },
+    {
+      "name": "Salesforce",
+      "icon": "FaSalesforce",
+      "color": "#00A1E0"
+    },
+    {
+      "name": "MySQL",
+      "icon": "FaDatabase",
+      "color": "#4479A1"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "FaDatabase",
+      "color": "#336791"
+    },
+    {
+      "name": "Google Cloud",
+      "icon": "SiGooglecloud",
+      "color": "#4285F4"
+    },
+    {
+      "name": "Microsoft Azure",
+      "icon": "SiMicrosoftazure",
+      "color": "#0089D6"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      "icon": "FaAws",
+      "color": "#FF9900",
+      "url": "https://www.credly.com/go/qKeAM6Lo"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "icon": "SiMicrosoftazure",
+      "color": "#0078D7",
+      "url": "https://www.credly.com/badges/acb8d778-502f-4e50-9e0c-3a202ff8d591/"
+    }
+  ],
+  "skillBadges": [
+    {
+      "name": "Salesforce Trailhead",
+      "icon": "FaSalesforce",
+      "color": "#1798C1",
+      "url": "https://www.salesforce.com/trailblazer/arpitshukla"
+    },
+    {
+      "name": "Microsoft Learn",
+      "icon": "SiMicrosoftazure",
+      "color": "#005A9E",
+      "url": "https://learn.microsoft.com/en-us/users/arpitshukla/"
+    },
+    {
+      "name": "Google Cloud Skills Boost",
+      "icon": "SiGooglecloud",
+      "color": "#4285F4",
+      "url": "https://www.cloudskillsboost.google/public_profiles/8610b7c7-ccb6-4fb1-9008-f82a3f446390"
+    }
+  ]
+}
